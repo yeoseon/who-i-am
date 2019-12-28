@@ -10,6 +10,8 @@
 
 * 추후 yeoseon.github.io 페이지에 도메인 연동 예정 (yeoseon.me)
 
+* 간편 이력서
+
 ### How to develop
 
 > 작성 예정
