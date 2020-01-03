@@ -1,6 +1,6 @@
 # WHO I AM
 
-> Modern JavaScript 공부 겸 나의 It's Me, Pick Me! Page 제작
+> Modern JavaScript 공부 겸 나의 Resume Page 제작
 
 ### What?
 
@@ -16,7 +16,10 @@
 
 > 작성 예정
 
-### 출처
+### 참고링크
 
-https://colus001.github.io/ 
-혼자 존경하면서 몰래 지켜보고 따라하고 있는(...) 김석준 개발자님의 사이트를 참고해본다.
+https://colus001.github.io/
+https://resume.joaomoreno.com/
+https://clement.danjou.io/
+https://ideveloper2.dev/about/
+https://seokju.me/
