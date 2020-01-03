@@ -1,5 +1,6 @@
 # WHO I AM
 
+> Inspired from https://colus001.github.io/
 > Modern JavaScript 공부 겸 나의 Resume Page 제작
 
 ### What?
