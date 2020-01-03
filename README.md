@@ -1,4 +1,4 @@
-# Pick Me
+# WHO I AM
 
 > Modern JavaScript 공부 겸 나의 It's Me, Pick Me! Page 제작
 
