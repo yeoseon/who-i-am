@@ -18,8 +18,8 @@
 
 ### 참고링크
 
-https://colus001.github.io/
-https://resume.joaomoreno.com/
-https://clement.danjou.io/
-https://ideveloper2.dev/about/
-https://seokju.me/
+https://colus001.github.io/  
+https://resume.joaomoreno.com/  
+https://clement.danjou.io/  
+https://ideveloper2.dev/about/  
+https://seokju.me/  
