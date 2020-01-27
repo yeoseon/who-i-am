@@ -24,3 +24,7 @@ https://resume.joaomoreno.com/
 https://clement.danjou.io/  
 https://ideveloper2.dev/about/  
 https://seokju.me/  
+https://evanyou.me/ . 
+https://joshua1988.github.io/about/ . 
+https://1ilsang.dev/about/ . 
+
