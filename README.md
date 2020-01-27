@@ -17,6 +17,8 @@
 
 > 작성 예정
 
+React, node.js 이용
+
 ### 참고링크
 
 https://colus001.github.io/  
