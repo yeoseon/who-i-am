@@ -5,8 +5,8 @@
 <img src="https://user-images.githubusercontent.com/54384004/73608875-6e757f00-460b-11ea-8773-4f1088a0c276.jpeg" width="200" height="200">  
 
 Email: devyyskr@gmail.com  
-Github: github.com/yeoseon  
-Blog: yeoseon.kr  
+Github: [github.com/yeoseon](https://github.com/yeoseon)  
+Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 ### 나는 이런 사람입니다.  
 
