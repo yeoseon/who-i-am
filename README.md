@@ -3,6 +3,8 @@
 > Inspired from https://colus001.github.io/  
 > Modern JavaScript 공부 겸 나의 Resume Page 제작
 
+## [Resume](https://github.com/yeoseon/who-i-am/tree/master/Resume)
+
 ### What?
 
 * 개발자로서의 나를 보여주는 페이지
