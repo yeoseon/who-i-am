@@ -10,6 +10,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 ### 나는 이런 사람입니다.  
 
+**프론트엔드 개발을 좋아하고 조금 더 능숙합니다. 지금은 풀 스택 개발을 담당하여 일하고 있습니다.** 
 1. 좋은 개발자가 되기 위해 매일 공부하며, **성장해가는 것을 좋아합니다.**  
 2. 업무 수행시 **'이 작업을 왜 수행하는지', '이 작업을 위한 모든 기술을 100% 알고 있는지', '더 좋은 방법은 없는 지'** 등을 항상 고민합니다.  
 3. 기억이 기록을 이길 수 없다고 여기고, **항상 기록합니다.**  
@@ -79,7 +80,25 @@ UI/UX에 대한 고민을 많이 해볼 수 있는 프로젝트였습니다.
 
 # 보유기술 및 사용도구  
 
-(작성 필요)  
+## 프로그래밍 언어  
+
+* **Java** - 주 사용 언어입니다. 경력동안 지속적으로 사용해왔으며, Java를 더 잘 알고 사용하기 위해 공부하고 있습니다. ([TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 예정, [이펙티브 자바 도서를 통해 학습중](https://github.com/yeoseon/effective-java), [TIL](https://github.com/yeoseon/tip-archive)을 통해 기본 개념 학습중)    
+* **JavaScript** - 주 사용 언어입니다. 사이드 프로젝트를 통해 ES6 문법을 주로 사용하며 배우고 있습니다. 프로토타입, 스코프, 클로저 등의 개념을 알고 있습니다. ([JavaScript 공부 레포](https://github.com/yeoseon/javascript))  
+* **Node.js** - 능숙하지 않습니다. 하지만 필요성을 느끼고 사이드 프로젝트를 통해 공부하고 있습니다.  
+* **CSS, HTML** - 약 3년간의 프론트엔드 개발 경력을 통해 능숙하게 사용합니다. HTML5, CSS3의 문법 (```<video></video>```, flex 개념 등)을 알고 찾아서 사용할 수 있습니다. SVG, Canvas 등의 동적 CSS 또한 개발해본 경험이 있습니다.    
+
+## Framework  
+
+* **Spring Framework** - 주 사용 Framework입니다. 경력 기간동안 지속적으로 사용해왔으며, [TIL](https://github.com/yeoseon/tip-archive)을 통해 더 잘 알고 개발하기 위해 지속적으로 학습중입니다. MVC 패턴을 이해하고 개발할 수 있습니다.  
+* **Vue.js** - 능숙하지 않습니다. 사이드 프로젝트를 통해 배우며 사용하고 있습니다.  
+* **React.js** - 능숙하지 않습니다. 사이드 프로젝트를 통해 공부하고 있습니다.  
+* **jQuery** - 주 사용 Frontend Framework입니다. 경력 기간동안 지속적으로 사용해왔습니다.  
+* **MySQL, PostgreSQL, Oracle** - 경력동안 계속 사용해온 Database 입니다. 사이드 프로젝트를 통해 모델링을 경험했습니다. 
+
+## 운영체제  
+
+* Mac OS - 주 사용 운영체제입니다.  
+* Windows - 주 사용 운영체제입니다.  
 
 # 활동  
 
