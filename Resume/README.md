@@ -87,7 +87,7 @@ UI/UX에 대한 고민을 많이 해볼 수 있는 프로젝트였습니다.
 맑은기술의 Main 제품이라고 할 수 있는 KeyFlow Enterprise의 웹 서비스를 개발했습니다.  
 기존에 어플리케이션 형태로 제공되던 사용자 기능을 웹 서비스로 새로 개발하는 것이 그 내용이었습니다.  
 다른 프로젝트 수행을 위해 진행하다가 중단된 프로젝트이지만, AngularJS의 사용을 통해 JavaScript Framework와 SPA를 경험해볼 수 있는 기회였습니다.  
-# 사이드 프로젝트 (내용 보강 필요)  
+# 사이드 프로젝트  
 
 ## [MyWorkChain](https://github.com/yeoseon/MyWorkChain)    
 
