@@ -107,7 +107,7 @@ UI/UX에 대한 고민을 많이 해볼 수 있는 프로젝트였습니다.
 
 ## 프로그래밍 언어  
 
-* **Java** - 주 사용 언어입니다. 경력동안 지속적으로 사용해왔으며, Java를 더 잘 알고 사용하기 위해 공부하고 있습니다. ([TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 예정, [이펙티브 자바 도서를 통해 학습중](https://github.com/yeoseon/effective-java), [TIL](https://github.com/yeoseon/tip-archive)을 통해 기본 개념 학습중)    
+* **Java** - 주 사용 언어입니다. 경력동안 지속적으로 사용해왔으며, Java를 더 잘 알고 사용하기 위해 공부하고 있습니다. ([TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강, [이펙티브 자바 도서를 통한 학습](https://github.com/yeoseon/effective-java), [TIL](https://github.com/yeoseon/tip-archive)을 통해 기본 개념 학습)    
 * **JavaScript** - 주 사용 언어입니다. ES6 문법을 이해하고 사용할 수 있습니다. 프로토타입, 스코프, 클로저 등의 개념을 알고 있습니다. ([JavaScript 공부 레포](https://github.com/yeoseon/javascript))  
 * **Node.js** - 능숙하지 않습니다. 하지만 필요성을 느끼고 사이드 프로젝트를 통해 공부하고 있습니다.  
 * **CSS, HTML** - 약 3년간의 프론트엔드 개발 경력을 통해 능숙하게 사용합니다. HTML5, CSS3의 문법 (```<video></video>```, flex 개념 등)을 알고 찾아서 사용할 수 있습니다. SVG, Canvas 등의 동적 CSS를 개발해본 경험이 있습니다.    
@@ -145,7 +145,8 @@ UI/UX에 대한 고민을 많이 해볼 수 있는 프로젝트였습니다.
 * Sound with camp 해커톤 참가 (2016.01)
 * 여자 사회인 야구단 VIVA PHOENIX 활동 (2016.03-2019.03)  
 * [UDC 2019 해커톤](https://udc.upbit.com/special_event/hackaton) 참가 (2019.09)  
-* 모각코 모임 GAM 활동중 (2019.12-)
+* 모각코 모임 GAM 활동중 (2019.12-)  
+* [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 
 # 학력  
 
