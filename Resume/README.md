@@ -21,7 +21,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 1. 좋은 API를 디자인하는 방법  
 2. 동료가 이해할 수 있는 근거와 분위기를 기반으로 잘 소통하는 방법  
-3. 읽기 좋은 Clean한 코드를 짜는 방법  
+3. Clean Code를 짜는 방법  
 
 # 경력  
 
