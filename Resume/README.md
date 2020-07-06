@@ -157,6 +157,7 @@ UI/UX에 대한 고민을 많이 해볼 수 있는 프로젝트였습니다.
 * [UDC 2019 해커톤](https://udc.upbit.com/special_event/hackaton) 참가 (2019.09)  
 * 모각코 모임 GAM 활동중 (2019.12-)  
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
+* '클린코드를 공부하며 배운 것들' 주제 세미나 진행 (2020.07)  
 
 # 학력  
 
