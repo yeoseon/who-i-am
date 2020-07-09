@@ -71,7 +71,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 ## Framework  
 
-* **Spring Framework** - 주 사용 Framework입니다. spring boot를 이용해 개발해본 경력이 있습니다. MVC 패턴을 이해하고 개발할 수 있습니다. 경력 기간동안 지속적으로 사용해왔으며, [TIL](https://github.com/yeoseon/tip-archive)을 통해 더 잘 알고 개발하기 위해 지속적으로 학습중입니다.   
+* **Spring Framework** - 주 사용 Framework입니다. Spring Framework의 3가지 주요 개념을 이해하고 있습니다. spring boot를 이용해 개발해본 경력이 있습니다. 경력 기간동안 지속적으로 사용해왔으며, [TIL](https://github.com/yeoseon/tip-archive)을 통해 더 잘 알고 개발하기 위해 지속적으로 학습중입니다.   
 * **Vue.js** - 능숙하지 않습니다. 사이드 프로젝트를 통해 배우며 사용하고 있습니다.  
 * **React.js** - 능숙하지 않습니다. 사이드 프로젝트를 통해 공부하고 있습니다.  
 * **jQuery** - 주 사용 Frontend Framework입니다. 지속적으로 사용해왔습니다.  
@@ -79,13 +79,13 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 ## Tools  
 
-* **SVN** - 주 사용 형상관리 Tool입니다. 경력동안 SVN을 주로 사용했습니다.  
+* **SVN** - 경력동안 주로 사용했습니다.  
 * **Git** - 개인 공부시 적극적으로 사용하고 있습니다. Github을 통한 코드리뷰 프로세스를 경험했습니다. 다양한 Git Flow에 대해 이해하고 있습니다.  
-* **Eclipse, STS** - 주 사용 IDE입니다. 경력동안 주로 사용했습니다.  
-* **Visual Studio Code (VSCode)** - 사이드 프로젝트를 통해 적극적으로 사용하고 있습니다. 다양한 플러그인을 찾아 사용할 수 있습니다. (ESLint, GitHub 등)      
+* **Eclipse, STS** - 경력동안 주로 사용했습니다.  
+* **Visual Studio Code (VSCode)** - 사이드 프로젝트를 통해 사용한 경험이 있습니다.       
 * **IntelliJ** - 업무, 사이드 프로젝트를 통해 적극적으로 사용하고 있습니다.  
 * **Photoshop** - 능숙하게 사용할 수 있습니다.  
-* **Notion** - 기록하는 것이 습관화 되어있습니다. 적극적으로 사용하고 있습니다. 
+* **Notion** - 기록하는 것이 습관화 되어있습니다. 매우 적극적으로 사용하고 있습니다.  
 
 
 ## 운영체제  
