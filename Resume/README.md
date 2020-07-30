@@ -111,7 +111,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 * [UDC 2019 해커톤](https://udc.upbit.com/special_event/hackaton) 참가 (2019.09)  
 * 모각코 모임 GAM 활동중 (2019.12-)  
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
-* '클린코드를 공부하며 배운 것들' 세미나 발표 (2020.07)  
+* 'Junior 개발자를 위한 클린코드를 공부하며 배운 것들' 세미나 발표 (2020.07)  
 
 # 학력  
 
