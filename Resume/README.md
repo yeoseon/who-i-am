@@ -18,7 +18,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 ### :book: 요새는 이런 것에 관심이 많습니다.  
 
 1. 좋은 `API`를 디자인하는 방법  
-2. 명확한 기준을 가지고 동료가 이해할 수 있는 근거를 제시하며 `소통`하는 방법  
+2. `명확한 기준`을 가지고 동료가 이해할 수 있는 `근거를 제시`하며 `소통`하는 방법  
 3. 테스트코드를 기반으로 한 `Clean Code` 구현하기    
 4. `주도적으로` 일하는 방법   
 5. `좋은 소프트웨어`란?  
@@ -62,20 +62,20 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 ```2019.08 ~ 2019.09 UDC 2019 해커톤 출전 프로젝트. API 개발 담당 ```  
 
-**사용기술: Spring Framework(Spring Boot), jQuery, Mustache**
+**사용기술: `Spring Framework(Spring Boot)`, `jQuery`, `Mustache`**
 
 ## [Planting](https://github.com/ga-m) 
 
 ```2020.01 ~ 모각코 모임에서 진행하는 사이드 프로젝트. 프론트엔드 개발 담당 ```
 
-**사용기술: Vue.js, JavaScript(ES6)**
+**사용기술: `Vue.js`, `JavaScript(ES6)`**
 
 
 # 보유기술 및 사용도구  
 
 ## 프로그래밍 언어  
 
-* `Java` - 주 사용 언어입니다. 경력동안 지속적으로 사용해왔으며, Java를 더 잘 알고 사용하기 위해 공부하고 있습니다. ([TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강, [이펙티브 자바 도서를 통한 학습](https://github.com/yeoseon/effective-java), [TIL](https://github.com/yeoseon/tip-archive)을 통해 기본 개념 학습)    
+* **Java** - 주 사용 언어입니다. 경력동안 지속적으로 사용해왔으며, Java를 더 잘 알고 사용하기 위해 공부하고 있습니다. ([TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강, [이펙티브 자바 도서를 통한 학습](https://github.com/yeoseon/effective-java), [TIL](https://github.com/yeoseon/tip-archive)을 통해 기본 개념 학습)    
 * **JavaScript** - 주 사용 언어입니다. ES6 문법을 이해하고 사용할 수 있습니다. 프로토타입, 스코프, 클로저 등의 개념을 알고 있습니다. ([JavaScript 공부 레포](https://github.com/yeoseon/javascript))  
 * **Node.js** - 능숙하지 않습니다. 하지만 필요성을 느끼고 사이드 프로젝트를 통해 공부하고 있습니다.  
 * **CSS, HTML** - 백엔드 개발자로 전환 전 약 3년간의 프론트엔드 개발 경험을 통해 능숙하게 사용합니다. HTML5, CSS3의 문법 (```<video></video>```, flex 개념 등)을 알고 찾아서 사용할 수 있습니다. SVG, Canvas 등의 동적 CSS를 개발해본 경험이 있습니다.    
