@@ -116,6 +116,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 * 모각코 모임 GAM 활동중 (2019.12-)  
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 * 'Junior 개발자를 위한 클린코드를 공부하며 배운 것들' 세미나 발표 (2020.07)  
+* 유기견묘 봉사단체 '단비' 활동 (2020.09~)
 
 # 학력  
 
