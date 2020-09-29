@@ -32,7 +32,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 > *조직이 요구하는 인재가 될 수 있도록 열심히 배워가고 있습니다. :smiley:*  
 
 * [뱅크웨어글로벌](http://bankwareglobal.com/wp/)  
-    * 소프트웨어 개발 (백엔드)
+    * 소프트웨어 개발 (API, 서비스, 화면 개발)
     * 기간: 2019.01 - 2020.08 (1년 7개월)  
 
 * [맑은기술](http://www.malgn.com/)  
