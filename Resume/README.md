@@ -43,7 +43,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 
 ## 금융 솔루션 CBP  
 
-```뱅크웨어글로벌, 소프트웨어 개발, 2019.01 ~ 2020.08```
+```뱅크웨어글로벌, 소프트웨어 개발, 2019.01 ~ 2020.08```  
 
 **사용기술: `Spring Framework`, `AngularJS`, `Backbone.js`, `MySQL`, `Mybatis`**
 
@@ -63,6 +63,7 @@ Blog: [yeoseon.kr](https://yeoseon.kr/)
 ## 대규모 비디오 컨버팅 관리 서비스 개발  
 
 ```맑은기술, 웹 프론트엔드 개발, 2018.06 ~ 2018.08```  
+주로 REST API로 제공되는 API를 기반으로 서비스 및 화면을 개발하는 업무를 맡았습니다.  
 
 **사용기술: `Spring Framework(Spring Boot)`, `jQuery`, `Material`, `Mybatis`, `PostgreSQL`**  
 
