@@ -62,7 +62,7 @@
 
 ### 금융 솔루션 CBP :: '공통' 영역 구조 개선  
 
-:data: [Bankware Global] 2020.02~05  
+:date: [Bankware Global] 2020.02~05  
 :wrench: Java, Spring Framework 
 
 * 다양한 영역으로부터 공통적으로 사용되는 API가 많고, 데이터를 관리하는 기능도 함께 가지고 있던 제품 내 '공통' 영역 특성상  
@@ -82,7 +82,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 <!--
 ### 금융 솔루션 CBP :: 확장속성 기능 고도화  
 
-:data: [Bankware Global] 2020.04~07  
+:date: [Bankware Global] 2020.04~07  
 :wrench: Java, Spring Framework, MySQL
 --> 
 
@@ -176,7 +176,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 금융 솔루션 CBP의 중복거래 기능 개발  
   
-:data: [Bankware Global] 2020.08  
+:date: [Bankware Global] 2020.08  
 :wrench: Java, Spring Framework, JUnit5, MySQL  
 
 * 중복되는 금융 거래 발생시, Exception을 발생시켜   
@@ -230,7 +230,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 * 가장 기본적인 기능으로, 써보고 싶었던 기술들을 이용해 서비스 개발의 End-to-End 개발을 경험하고자 진행한 사이드 프로젝트  
 <!-- 
-:data: 2020.10~
+:date: 2020.10~
 :wrench: docker, node.js, Spring Framework, AWS, React
 -->  
 
