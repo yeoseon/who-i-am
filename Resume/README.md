@@ -48,7 +48,7 @@
 
 ### 제품 개발 시스템에 테스트코드 도입 제안  
 
-:date: [Bankware Global] 2020.06~ 
+:date: [Bankware Global] 2020.06~  
 :wrench: Java, Spring Framework, JUnit5  
 
 * 단위 테스트를 하지 않던 기존 시스템에서 JUnit을 사용할 수 있는 방법을 건의하여 테스트코드를 도입   
