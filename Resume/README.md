@@ -148,7 +148,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ## 소통  
 
-### 금융 솔루션 CBP :: 기반지식과 요건이 명확치 않은 상태에서의 API 개발 진행    
+### 금융 솔루션 CBP :: 기반지식과 요건이 명확하지 않은 상태에서의 API 개발 진행    
 
 :date:[Bankware Global] 2020.05  
 :computer: Java, Spring Framework, JUnit5  
