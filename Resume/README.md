@@ -254,7 +254,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 * [DDD(Domain-Driven Design) 세레나데](https://edu.nextstep.camp/c/GwN2MSqv/) 수강 (2020.10-2020.11) (예정)  
 
-_이 Resume은 `2020.10.02` 에 업데이트 되었습니다._  
+_이 Resume은 `2020.10.08` 에 업데이트 되었습니다._  
 
 
 
