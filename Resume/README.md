@@ -15,7 +15,6 @@
 * `테스트코드`를 기반으로 한 `Clean Code` 구현하기    
 * `주도적으로` 일하기   
 * `좋은 소프트웨어`란?  
-* 개발자의 `성장`  
 
 **GitHub** | [github.com/yeoseon](https://github.com/yeoseon)  
 **Blog** | [yeoseon.kr](https://yeoseon.kr/)  
