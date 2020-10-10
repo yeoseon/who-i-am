@@ -242,7 +242,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ## Presentation  
 
-* Junior 개발자를 위한 클린코드를 공부하며 배운 것들 (2020.07)  
+* [Junior 개발자를 위한 클린코드를 공부하며 배운 것들](https://speakerdeck.com/yeoseon/what-i-learned-while-studying-clean-code) (2020.07)  
   개발자로서 어떤 공부를 하며 성장해야할 지 고민했던 시기에 `클린코드`를 공부하게 되며 배운 것들을 공유
    
 ## Activity  
@@ -253,7 +253,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 * [DDD(Domain-Driven Design) 세레나데](https://edu.nextstep.camp/c/GwN2MSqv/) 수강 (2020.10-2020.11) (예정)  
 
-_이 Resume은 `2020.10.08` 에 업데이트 되었습니다._  
+_이 Resume은 `2020.10.10` 에 업데이트 되었습니다._  
 
 
 
