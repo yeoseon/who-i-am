@@ -61,7 +61,7 @@
 
 ### 금융 솔루션 CBP :: '공통' 영역 구조 개선  
 
-:date: [Bankware Global] 2020.02~05  
+:date: [Bankware Global] 2019.11~05  
 :computer: Java, Spring Framework 
 
 * 다양한 영역으로부터 공통적으로 사용되는 API가 많고, 데이터를 관리하는 기능도 함께 가지고 있던 제품 내 '공통' 영역 특성상  
