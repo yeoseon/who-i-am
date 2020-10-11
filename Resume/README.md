@@ -223,7 +223,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 * GitHub 의 Contribution 시스템; 일명 '1일 1커밋' 시스템을 일상의 목표도 적용시켜보자는 아이디어로 시작한 사이드 프로젝트  
 * JavaScript와 Vue.js를 이용해 화면 개발 담당  
 * SVG를 이용하여 Github의 Contribution Graph와 같은 형태를 동적으로 그리는 기능 개발 ([gist](https://gist.github.com/yeoseon/006389d6f02136851b844767bf9a3b13))  
-* 작은 기능 하나만을 개발하고 중단되었지만, 해당 기능을 JavaScript를 통해 보다 '좋은' 코드로 구현하고자 노력했으며, Vue.js도 접해볼 수 있는 기회  
+* [작은 기능 하나만을 개발](https://gist.github.com/yeoseon/006389d6f02136851b844767bf9a3b13)하고 중단되었지만, 해당 기능을 JavaScript를 통해 보다 '좋은' 코드로 구현하고자 노력했으며, Vue.js도 접해볼 수 있는 기회  
 
 <!-- 새로운 JavaScript Framework를 접해보고 싶기도했고, 무엇보다 JavaScript를 제대로 알고, ES6 문법을 잘 활용하여 제대로 개발해보고 싶어서 도전했다.  
 작은 기능 하나만 개발하고 중단된 프로젝트지만, 그 개발을 위해 JavaScript를 많이 공부하며 어렵다는 것을 이해하고, Vue.js도 접해볼 수 있는 기회였음 -->
