@@ -7,7 +7,7 @@
 
 # 안녕하세요, Java 웹 개발자 윤여선 입니다.  
 
-### :hand: 저는 이런 사람입니다.  
+### 저는 이런 사람입니다.  
 
 `#스프링` `#Backend개발자로전환` `#클린코드` `#테스트` `#노션없으면못사는` `#매일공부하는` `#Frontend에도관심이많은`
 
@@ -15,7 +15,7 @@
 2. 끊임없이 `질문`하는 
 3. 항상 `기록`하는  
 
-### :mag: 저는 이런 것에 관심을 두고 있습니다.  
+### 저는 이런 것에 관심을 두고 있습니다.  
 
 * 좋은 `API`를 디자인하는 방법  
 * `명확한 기준`을 가지고 동료가 이해할 수 있는 `근거를 제시`하며 `소통`하는 방법  
@@ -33,7 +33,7 @@
 * `좋은 소프트웨어`와 `조직의 성장`을 위한 문화가 있거나 만들어가고 있는 (`코드리뷰`, `테스트 주도 개발` 등..)
 * `공유/세미나`가 활발하고 소통이 `자유`로운  
 * `신뢰를 바탕`으로 업무가 `자율적`으로 이루어지는
-> *조직이 요구하는 인재가 될 수 있도록 열심히 배워가고 있습니다. :smiley:*  
+> *조직이 요구하는 인재가 될 수 있도록 열심히 배워가고 있습니다.  
 
 ### [뱅크웨어글로벌](http://bankwareglobal.com/wp/)
 **기간** | 2019.01 - 2020.08 (1년 7개월)  
@@ -54,8 +54,8 @@
 
 ### 제품 개발 시스템에 테스트코드 도입 제안  
 
-:date: [Bankware Global] 2020.06~  
-:computer: Java, Spring Framework, JUnit5  
+[Bankware Global] 2020.06~  
+Java, Spring Framework, JUnit5  
 
 * 단위 테스트를 하지 않던 기존 시스템에서 JUnit을 사용할 수 있는 방법을 건의하여 테스트코드를 도입   
 * 테스트 코드를 적용할 시간이 따로 주어진 것은 아니었기에, 새로 개발하거나 수정하는 기능에 대해서만이라도 테스트코드를 지속적으로 도입하려고 노력  
@@ -68,8 +68,8 @@
 
 ### 금융 솔루션 CBP :: '공통' 영역 구조 개선  
 
-:date: [Bankware Global] 2019.11~05  
-:computer: Java, Spring Framework 
+[Bankware Global] 2019.11~05  
+Java, Spring Framework 
 
 * 다양한 영역으로부터 공통적으로 사용되는 API가 많고, 데이터를 관리하는 기능도 함께 가지고 있던 제품 내 '공통' 영역 특성상  
 구현되는 프로젝트가 다양하고, API도 기준 없이 분리되어 있던 부분을 개선    
@@ -88,8 +88,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 <!--
 ### 금융 솔루션 CBP :: 확장속성 기능 고도화  
 
-:date: [Bankware Global] 2020.04~07  
-:computer: Java, Spring Framework 
+[Bankware Global] 2020.04~07  
+Java, Spring Framework 
 
 --> 
 
@@ -99,8 +99,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 금융 솔루션 CBP 제품 성능 개선  
  
-:date: [Bankware Global] 2020.05  
-:computer: Java, Spring Framework, JUnit5, MySQL  
+[Bankware Global] 2020.05  
+Java, Spring Framework, JUnit5, MySQL  
 
 * 기능 수행시 실행 시간, 함수 Call 횟수, CPU 기록을 토대로 많이 차지되는 함수에 대한 구조 검토 및 Refactoring 수행  
 * 데이터 조회를 위한 쿼리와 데이터를 관리를 위한 쿼리 분리  
@@ -124,8 +124,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 사내 시스템 Slack Notification 기능 Refactoring  
 
-:date: [Bankware Global] 2020.08  
-:computer: Java, Spring Framework, JUnit5  
+[Bankware Global] 2020.08  
+Java, Spring Framework, JUnit5  
 
 * 사내 시스템 중 Slack Webhook을 이용해 Notify 하는 기능을 사이드 프로젝트로 개발   
 * 추후 좋은 코드가 아니라고 판단되어 JUnit5를 활용하여 객체 지향적으로 Refactoring을 수행  
@@ -138,8 +138,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 한국여자농구연맹(WKBL)의 영상 콘텐츠 제공 웹 서비스 개발  
 
-:date: [맑은기술] 2018.02~11  
-:computer: Springboot, jQuery, Foundation, Mustache  
+[맑은기술] 2018.02~11  
+Springboot, jQuery, Foundation, Mustache  
  
 * [WKBL 데이터랩](http://datalab.wkbl.or.kr/gameinfo?id=03901001)  
 * 한국여자농구연맹(WKBL)의 영상 아카이브 솔루션을 기반으로 해당 영상을 외부 기자, 일반 사용자들에게 다양한 형태로 제공하는 웹 서비스 및 화면 개발  
@@ -147,8 +147,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 대규모 비디오 컨버팅 관리 웹 서비스 개발  
 
-:date: [맑은기술] 2018.02~11  
-:computer: Springboot, jQuery, Material  
+[맑은기술] 2018.02~11  
+Springboot, jQuery, Material  
  
 * 비디오의 컨버팅 task를 관리하고, 진행 과정을 확인할 수 있는 웹 서비스 및 화면 개발  
 * Dashboard 화면을 도입하여 한눈에 볼 수 있도록 개발  
@@ -161,8 +161,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 금융 솔루션 CBP :: 기반지식과 요건이 명확하지 않은 상태에서의 API 개발 진행    
 
-:date:[Bankware Global] 2020.05  
-:computer: Java, Spring Framework, JUnit5  
+[Bankware Global] 2020.05  
+Java, Spring Framework, JUnit5  
     
 * 기반 지식 부족, 불명확한 요건, 요건에 따라 개발 스케줄링을 할 시간 부족의 상황에서 API 개발 진행  
 * 요청 상황을 일감을 토대로 파악, 질문 요소가 나오면 그때그때 list-up  
@@ -188,8 +188,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 금융 솔루션 CBP의 중복거래 기능 개발  
   
-:date: [Bankware Global] 2020.08  
-:computer: Java, Spring Framework, JUnit5, MySQL  
+[Bankware Global] 2020.08  
+Java, Spring Framework, JUnit5, MySQL  
 
 * 중복되는 금융 거래 발생시, Exception을 발생시켜   
 -->
@@ -202,8 +202,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 사용하던 기술에 대한 재학습  
 
-:date: 2020.08~10  
-:computer: Springboot, Java, Algorithm, SQL ...  
+2020.08~10  
+Springboot, Java, Algorithm, SQL ...  
 
 * 더 잘 알고 개발하기 위해 그동안 사용해왔던 기술에 대한 학습을 재진행  
 * [GitHub (Spring Playground)](https://github.com/yeoseon/spring-playground)  
@@ -216,16 +216,16 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### KeyFlow Enterprise 3.x  
 
-:date: [맑은기술] 2016.03~06  
-:computer: Springboot, AngularJS, bootstrap  
+[맑은기술] 2016.03~06  
+Springboot, AngularJS, bootstrap  
 
 * 기존에 어플리케이션 형태로 제공되던 사용자 기능을 웹 서비스로 새로 개발
 * 다른 프로젝트 수행을 위해 진행하다가 중단된 프로젝트이지만, AngularJS의 사용을 통해 JavaScript Framework와 SPA를 경험    
 
 ### 모각코 모임 GAM 의 사이드 프로젝트 :: [Planting](https://github.com/ga-m)  
 
-:date: 2020.08~09  
-:computer: Vue.js, JavaScript(ES6)  
+2020.08~09  
+Vue.js, JavaScript(ES6)  
 
 * GitHub 의 Contribution 시스템; 일명 '1일 1커밋' 시스템을 일상의 목표도 적용시켜보자는 아이디어로 시작한 사이드 프로젝트  
 * JavaScript와 Vue.js를 이용해 화면 개발 담당  
