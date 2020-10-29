@@ -235,16 +235,6 @@ Vue.js, JavaScript(ES6)
 <!-- 새로운 JavaScript Framework를 접해보고 싶기도했고, 무엇보다 JavaScript를 제대로 알고, ES6 문법을 잘 활용하여 제대로 개발해보고 싶어서 도전했다.  
 작은 기능 하나만 개발하고 중단된 프로젝트지만, 그 개발을 위해 JavaScript를 많이 공부하며 어렵다는 것을 이해하고, Vue.js도 접해볼 수 있는 기회였음 -->
 
-### 개인 사이드 프로젝트 :: Pick me !
-
-(작성 예정)  
-
-* 가장 기본적인 기능으로, 써보고 싶었던 기술들을 이용해 서비스 개발의 End-to-End 개발을 경험하고자 진행한 사이드 프로젝트  
-<!-- 
-:date: 2020.10~
-:computer: docker, node.js, Spring Framework, AWS, React
--->  
-
 # Community  
 
 ## Presentation  
