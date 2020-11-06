@@ -10,7 +10,7 @@
 ### 서울에서 Java 웹 개발자로 살아가고 있습니다.  
 
 * `Spring Framework` 를 주로 사용하고 있습니다.  
-* `좋은 소프트웨어`와 `커뮤니케이션`에 대한 관심이 많습니다.  
+* 좋은 코드와 설계를 바탕으로 한 `좋은 소프트웨어`와 협업을 위한 `좋은 커뮤니케이션`에 관심이 많습니다.  
 * 최근에는 `JPA`와 `DDD(Domain-Driven-Design)`를 공부하고 있습니다.  
 * 좋은 조직으로 가기 위해 `구직` 중에 있습니다.  
 
@@ -247,7 +247,7 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 * [DDD(Domain-Driven Design) 세레나데](https://edu.nextstep.camp/c/GwN2MSqv/) 수강 (2020.10-2020.11) (예정)  
 
-_이 Resume은 `2020.10.10` 에 업데이트 되었습니다._  
+_이 Resume은 `2020.11.06` 에 업데이트 되었습니다._  
 
 
 
